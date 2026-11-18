@@ -1,0 +1,8 @@
+Put your photo in this folder and rename it exactly:
+background.jpg
+
+GitHub structure:
+andeng-birthday/
+  index.html
+  photos/
+    background.jpg
